@@ -1,5 +1,5 @@
 // Zapamiętuje aplikację na urządzeniu, żeby działała bez internetu. Książki są osobno w pamięci przeglądarki.
-const CACHE = 'prawo-rzymskie-v12-podpowiedzi';
+const CACHE = 'prawo-rzymskie-v19-program';
 const FILES = ['./', 'index.html', 'manifest.webmanifest', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', (e) => {
